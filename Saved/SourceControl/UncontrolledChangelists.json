@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/24814853/Downloads/Colab-3--main/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/24814853/Downloads/Colab-3--main/Content/Blueprints/HealthBarUI.uasset",
 				"D:/GitHub repositories/Colab-3-/Content/Materials/M_PrototypeGrid1.uasset",
 				"D:/GitHub repositories/Colab-3-/Content/Maps/Dungeon_whiteboxing.umap",
 				"D:/GitHub repositories/Colab-3-/Content/Materials/M_PrototypeGrid2.uasset",
