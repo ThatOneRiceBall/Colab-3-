@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Colab-3-/Content/Maps/Dungeon_whiteboxing.umap",
+				"D:/Colab-3-/Content/Blueprints/TavernToDungeon.uasset",
+				"D:/Colab-3-/Content/Maps/Tavern_Whiteboxing.umap",
+				"D:/Colab-3-/Content/Blueprints/TavernToDungeonWidget.uasset",
+				"D:/Colab-3-/Content/Blueprints/BP_EnemySpawner.uasset",
 				"D:/GitHub repositories/Colab-3-/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"D:/GitHub repositories/Colab-3-/Content/Maps/Dungeon_whiteboxing.umap",
 				"D:/GitHub repositories/Colab-3-/Content/Damage_System/Player/Enemies/AI/BT_Enemy_Base.uasset",
@@ -603,10 +608,6 @@
 				"E:/Documents/UNI/GitHub/Yr2/Colabs/Colab-3-/Content/Assets/AssetMaterials/Pan/T_PanMetal_N.uasset",
 				"E:/Documents/UNI/GitHub/Yr2/Colabs/Colab-3-/Content/Assets/AssetMaterials/Pan/T_PanMetal_ORM.uasset",
 				"E:/Documents/UNI/GitHub/Yr2/Colabs/Colab-3-/Content/Assets/Tavern/Notanotherstove.uasset",
-				"D:/Colab-3-/Content/Maps/Dungeon_whiteboxing.umap",
-				"D:/Colab-3-/Content/Blueprints/TavernToDungeon.uasset",
-				"D:/Colab-3-/Content/Maps/Tavern_Whiteboxing.umap",
-				"D:/Colab-3-/Content/Blueprints/TavernToDungeonWidget.uasset",
 				"D:/Colab-3-/Content/Blueprints/NewBlueprint.uasset",
 				"D:/GitHub repositories/Colab-3-/Content/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
