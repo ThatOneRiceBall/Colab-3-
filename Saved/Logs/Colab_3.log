@@ -1669,3 +1669,7 @@ FPackageName: Skipped package /Game/FirstPerson/Input/Actions/IA_Shoot has a val
 [2025.12.05-09.24.11:743][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2025.12.05-09.24.11:762][605]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2025.12.05-09.24.11:762][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.05-09.24.33:220][605]LogEditorDataStorage: Deinitializing
+[2025.12.05-09.24.48:569][605]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.05-09.24.54:863][605]LogExit: Editor shut down
+[2025.12.05-09.24.58:569][605]LogExit: Transaction tracking system shut down
